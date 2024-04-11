@@ -1,0 +1,15 @@
+.heading {
+  background: #fff800;
+  width: 100%;
+  color: black;
+  padding: 10px 0px 10px 0px;
+  text-align: center;
+  font-size: 2.5em;
+}
+
+.footer_menu {
+  background: #c9c400;
+  color: #454545;
+  text-align: center;
+  font-size: 1.5em;
+}

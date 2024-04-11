@@ -1,0 +1,46 @@
+.btn_lg {
+  background: #fff800;
+  border-color: #f8f100;
+  font-size: 26px;
+  width: 42px;
+}
+
+.chatForm {
+  text-align: center;
+  padding: 10px;
+}
+.inputTodo {
+  height: 31px;
+  width: 341px;
+  font-size: 25px;
+}
+
+.todosList {
+  width: 80%;
+  margin-left: -3.5%;
+  list-style-type: none;
+  text-align: left;
+}
+.todoItem {
+  background: #6fff86;
+  padding: 2px 0px 5px 4px;
+  box-shadow: 6px 7px 5px #bebebe;
+  margin-top: 8px;
+}
+.todoSection {
+  text-align: center;
+  background: #fff800;
+  width: 29.4%;
+  margin-left: 35.4%;
+  padding-bottom: 1px;
+  margin-bottom: 40px;
+  margin-top: 50px;
+}
+.removeBtn {
+  background: #be0303;
+  border: 0;
+  color: #fff;
+  float: right;
+  margin: 4px 5px 0px 0px;
+  border-radius: 2px;
+}
